@@ -1,0 +1,1 @@
+New-RDSServer -Server SRV-RDS1138 -IP 10.3.50.138 -VCenter SRV-VCGIP -CustomFile "TPL_GIPV2" -TemplateFile "TPL_GIPV2" -Cred $CredAdmin -Verbose

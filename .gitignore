@@ -1,0 +1,5 @@
+/BuildOutput/*
+/UnitTests/UnitTestsResult.xml
+/Tests
+/Tests/*
+/*.csv
